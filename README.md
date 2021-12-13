@@ -6,16 +6,16 @@ Let Elizabeth and Philip know if you can make it to their wedding by following t
 ## How to RSVP
 
 ### Assumptions
-- You have a Github user account
+- You are currently signed into your GitHub account
 - You have basic familiarity with Markdown
-- You have Git command line tool installed on your computer, and it is set up to access your Github account 
+- You have Git command line tool installed on your computer, and it is set up to access your Github account
 
 ### Instructions
 1. Start by forking the repository to your Github user account by clicking on the Fork button at the top right corner.
 
 ![fork repository button](Images/img01.png)
 
-2. Clone the forked repository from your Github account on to your local computer. In order to clone, you need the URL of the repository. Click on the `Code` button to access the direct URL of the repository. 
+2. Clone the forked repository from your Github account onto your local computer. In order to clone, you need the URL of the repository. Click on the `Code` button to access the direct URL of the repository. 
 
 ![repository direct link](Images/img02.png)
 
@@ -31,13 +31,13 @@ git clone git@github.com:Codecademy/wedding-rsvp-off-platform-project.git
 cd wedding-rsvp-off-platform-project
 ```
 
-4. Create a new branch and name it `rsvp`. Run following command to create the new branch and also change the current working branch of the local repository to the newly created branch.
+4. Create a new branch and name it `rsvp-[yourname]`. Run following command to create the new branch and also change the current working branch of the local repository to the newly created branch.
 
 ```
-git checkout -b rsvp
+git checkout -b rsvp-yourname
 ```
 
-5. Open the `guests.md` file using a text editor. This is a Markdown table that includes the list of all the guests who have RSVPed to the wedding. Add a new row to the table and include your name and the number of guests coming with you. Save your changes to the file. 
+5. Open the `guests.md` file using your text editor. This is a Markdown table that includes the list of all the guests who have RSVPed to the wedding. Add a new row to the table and include your name and the number of guests coming with you. Save your changes to the file. 
 
 6. Commit your changes for Git to track. Put a message describing the change for your commit.
 
@@ -51,7 +51,7 @@ git commit -m "Added my name to the list of guests."
 git push
 ```
 
-6. On the main page of the repository, you will now see a new `Compare and pull request` button. Click on that to create a pull request from the `rsvp` branch of your forked repository to the `main` branch of the original repository. 
+6. On the main page of the repository, you should now see an option to create a pull request. Click on that to create a pull request from the `rsvp-yourname` branch of your forked repository to the `main` branch of the original repository. 
 
 ![compare and pull request](Images/img05.png)
 
@@ -59,14 +59,5 @@ Alternatively, you can manually create a pull request by clicking on the pull re
 
 ![pull request button](Images/img06.png)
 
-And then click on `Create pull request` and specify the source branch as the `rsvp` branch from the forked repository on your Github account to the `main` branch of the original repository. 
-
-7. When you create a pull request, Github shows a draft view of the changes and differences between the source and target branches. 
-Click on `Create pull request` to open the fields to set the title and description of a pull request. 
-
-![Create a pull request](Images/img07.png)
-
-8. Github, by default, puts the message of the latest commit as the title of the pull request. Update the title to something more descriptive of the change. 
-The description of the pull request is already filled with a template message. This message comes from the content of a markdown file at `docs/pull_request_template.md`. If such a file exists, Github uses it as a template for all the pull requests created from a branch to the main branch. 
-
-9. Create the pull request and ensure all the requirements outlined in the checkboxes are met. 
+7. Github, by default, puts the message of the latest commit as the title of the pull request. Update the title to something more descriptive of the change. 
+The description of the pull request is already filled with a template message (this template comes from the content of a markdown file at `docs/pull_request_template.md`. If such a file exists, Github uses it as a template for all the pull requests created from a branch to the main branch). Ensure all the requirements outlined in the checkboxes are met. 
