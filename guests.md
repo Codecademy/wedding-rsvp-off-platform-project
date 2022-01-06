@@ -12,3 +12,4 @@
 | Duncan Forbes     | 2             |
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
+| Austin Swack      | 2             |
