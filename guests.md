@@ -12,4 +12,4 @@
 | Duncan Forbes     | 2             |
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
-| Felicia Platzke   | 2             |
+| Felicia Platzke   | 4             |
