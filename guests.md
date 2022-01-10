@@ -12,4 +12,4 @@
 | Duncan Forbes     | 2             |
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
-| Dmitry            | 2             |
+| Dmitry Finkel     | 2             |
