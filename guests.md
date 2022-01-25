@@ -12,3 +12,5 @@
 | Duncan Forbes     | 2             |
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
+| Giorgio Figus	    | 2		    |
+
