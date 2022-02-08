@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5             |
-| Roxanne Moreira   | 6             |
+| Roxanne Moreira   | 5             |
