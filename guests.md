@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Thedy             | 4  	        |
+| Thedy wender      | 4  	        |
