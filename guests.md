@@ -1,4 +1,5 @@
-| Name              | Number of Guests |
+
+ Name              | Number of Guests |
 | -----------       | -----------   |
 | Rylee Cherry      | 2             |
 | Aimee Howard      | 3             |
@@ -13,4 +14,5 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
-| Maxibon           | 5 	          |
+| Maxibon           | 5 	    
+| Timon		    | 4		    |
