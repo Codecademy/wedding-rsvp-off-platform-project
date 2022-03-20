@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5             |
 | Andy              | 2             |
+| Ayalett           | 3             |
