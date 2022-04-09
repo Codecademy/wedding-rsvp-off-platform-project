@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	    |
-| Frank Imbruglia   | 6		    |      |
+| Frank Imbruglia   | 6		    |
