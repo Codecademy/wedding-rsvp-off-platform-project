@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5             |
-| Daniel Dean       | 1             |
+| Daniel Dean       | 2             |
