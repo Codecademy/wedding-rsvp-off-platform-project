@@ -15,3 +15,4 @@
 | Julian           | 3                |
 | Maxibon          | 5                |
 | Harry Potter     | 4                |
+| Ron Weasley      | 4                |
