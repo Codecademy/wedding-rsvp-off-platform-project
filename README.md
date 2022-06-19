@@ -42,7 +42,7 @@ git checkout -b rsvp-yourname
 6. Commit your changes for Git to track. Put a message describing the change for your commit.
 
 ```
-git commit -m "Added my name to the list of guests."
+git commit -a -m "Added my name to the list of guests."
 ```
 
 7. Push your changes to the forked repository in your GitHub account.
