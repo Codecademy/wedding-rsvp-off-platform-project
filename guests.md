@@ -15,3 +15,5 @@
 | Julian            | 3             |
 | Maxibon           | 5 	      |
 | Arctanx 		  | 4			|
+| Arctany 		  | 5			|
+
