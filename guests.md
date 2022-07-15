@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Joseph            | 2 	        
+| Tasty             | 2             |
