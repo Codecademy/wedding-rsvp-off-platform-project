@@ -14,5 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5             |
-| Diian             | 3             |
-| Karencita         | 5             |
+| Abdi Jaasiel      | 3             |
