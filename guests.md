@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-|Jerry Last guest   | 2             |
+| Jerry Last guest   | 2            |
