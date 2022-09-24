@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Putin Vladimir    | 100000        |
+| Vlad John         | 10            |
