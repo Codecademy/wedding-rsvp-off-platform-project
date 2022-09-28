@@ -14,3 +14,6 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
+| Julian            | 3             |
+ Julian            | 3             |
+| John              | 1             |
