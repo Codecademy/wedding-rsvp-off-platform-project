@@ -15,3 +15,6 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Javier            | 1             |
+| Teresa            | 3             |
+
+
