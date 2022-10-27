@@ -13,4 +13,6 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
+| Jeffrey           | 5 	          |
+| Johnson           | 8 	          |
 | Maxibon           | 5 	          |
