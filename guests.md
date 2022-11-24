@@ -2,6 +2,7 @@
 | ---------------- | ---------------- |
 | Rylee Cherry     | 2                |
 | Amir             | 1                |
+| Amir             | 3                |
 | Aimee Howard     | 3                |
 | Carl Pacheco     | 1                |
 | Karissa Moore    | 2                |
