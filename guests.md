@@ -15,4 +15,3 @@
 | Julian            | 3             |
 | Maxibon           | 5 	          |
 | Brian Lucy        |2              |
-|john doe           |2              |
