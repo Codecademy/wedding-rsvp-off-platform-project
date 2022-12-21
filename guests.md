@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Deondre           | 10            |
+| Jeremiah          | 5             |
