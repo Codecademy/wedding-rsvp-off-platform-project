@@ -14,5 +14,5 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
-| Jonas             | 666           |
-| Thomas Turbano    | 13            |
+| Jonas             | 6             |
+
