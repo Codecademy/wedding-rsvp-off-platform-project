@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Tevin Cheatham    | 3             |
+| Destiny Jefferson | 1             |
