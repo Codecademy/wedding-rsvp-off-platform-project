@@ -13,4 +13,6 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
-| Maxibon           | 5 	          |
+| Maxibon           | 5 	        |
+| Tevin Cheatham    | 3             |
+| Destiny Jefferson | 1             |
