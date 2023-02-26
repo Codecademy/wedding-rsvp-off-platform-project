@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Suuperuser        | 2             |
+| H. G. Felix       | 2             |
