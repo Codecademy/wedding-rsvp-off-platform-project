@@ -1,5 +1,6 @@
 | Name              | Number of Guests |
 | -----------       | -----------   |
+| Joseph Clay       | 2             |
 | Rylee Cherry      | 2             |
 | Aimee Howard      | 3             |
 | Carl Pacheco      | 1             |
