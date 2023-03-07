@@ -15,5 +15,3 @@
 | Julian            | 3             |
 | Maxibon           | 5 	          |
 | Gustavo Henriques | 6 	          |
-
-
