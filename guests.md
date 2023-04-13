@@ -11,6 +11,7 @@
 | Raina Velez       | 1             |
 | Duncan Forbes     | 2             |
 | Susan Sloan       | 3             |
+| Konstantin Enge   | 5             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
-| Maxibon           | 5 	          |
+| Maxibon           | 5 	    |
