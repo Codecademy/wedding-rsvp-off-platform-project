@@ -14,5 +14,3 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Haley             | 2             |
-| Ross              | 2             |
