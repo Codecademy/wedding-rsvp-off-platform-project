@@ -14,3 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
+| Lucas Magno       | 1 	        |
