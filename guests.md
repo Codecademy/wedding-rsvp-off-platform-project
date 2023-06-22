@@ -12,6 +12,6 @@
 | Duncan Forbes     | 2             |
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
-| Julian            | 3             |
 | Damon Geelen      | 2             |
+| Julian            | 3             |
 | Maxibon           | 5 	          |
