@@ -16,3 +16,4 @@
 | Maxibon           | 5 	        |
 | Jiimy             | 3             |
 | Taylor            | 3             |
+| Rolyat            | 3             |
