@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Jiimy             | 3             |
+| Taylor            | 3             |
