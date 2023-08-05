@@ -14,3 +14,6 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
+| dipak             | 3             |
+|TUSHAR             | 6             |
+| sonam             | 4             |
