@@ -15,3 +15,4 @@
 | Julian           | 3                |
 | Maxibon          | 5                |
 | Jose & Gwen      | 4                |
+| Joaqs            | 4                |
