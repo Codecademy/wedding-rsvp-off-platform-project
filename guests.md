@@ -15,3 +15,5 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | ika-yaki          | 1             |
+
+test
