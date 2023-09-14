@@ -1,5 +1,5 @@
 | Name              | Number of Guests |
-| -----------       | -----------   |
+| Layla             | 2             |
 | Rylee Cherry      | 2             |
 | Aimee Howard      | 3             |
 | Carl Pacheco      | 1             |
