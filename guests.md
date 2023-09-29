@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Amaury            | 5 	        |
+| Amaury            | 10 	        |
