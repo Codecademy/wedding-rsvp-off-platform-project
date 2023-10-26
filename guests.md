@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Kelly             | 2 + a dog   |
+| Kelly             | 1 + a dog     |
