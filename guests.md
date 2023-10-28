@@ -12,5 +12,5 @@
 | Duncan Forbes     | 2             |
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
-| Julian            | 3             |
 | Maxibon           | 5 	          |
+| Julian Tee X      | 2             |
