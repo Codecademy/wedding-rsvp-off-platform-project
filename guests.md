@@ -13,5 +13,5 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
-| Maxibon           | 5 	          |
-| Gladstone         | 2 	          |
+| Maxibon           | 5             |
+| Gladstone         | 2             |
