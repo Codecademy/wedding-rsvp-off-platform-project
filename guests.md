@@ -13,4 +13,5 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
+| Tiegan            | 3             |
 | Maxibon           | 5 	          |
