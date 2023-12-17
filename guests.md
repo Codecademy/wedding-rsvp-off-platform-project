@@ -1,5 +1,6 @@
 | Name              | Number of Guests |
 | -----------       | -----------   |
+| John Doe          | 7             |
 | Rylee Cherry      | 2             |
 | Aimee Howard      | 3             |
 | Carl Pacheco      | 1             |
