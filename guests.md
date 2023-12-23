@@ -14,3 +14,5 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
+| Mathivanan        | 3             |
+| Tuskor            | 4             |
