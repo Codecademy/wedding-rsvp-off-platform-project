@@ -15,4 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	          |
 | Mathivanan        | 3             |
-| husky             | 4             |
+| Tuskor            | 4             |
