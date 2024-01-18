@@ -13,5 +13,5 @@
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
-| Maxibon           | 5 	        |
-| Eric Chen         | 12 	        |
+| Maxibon           | 5             |
+| Eric Chen         | 12            |
