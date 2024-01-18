@@ -14,5 +14,5 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Eric Chen			| 1				|
+| Eric Chen         | 1 	        |
 
