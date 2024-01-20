@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Egor Melnikov     | 2             |
+| Egor Melnikov     | 1             |
