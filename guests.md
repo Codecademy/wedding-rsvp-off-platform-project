@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	    |
 | Mister O          | 5             |
+| Monsieur O        | 2             |
