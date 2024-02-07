@@ -9,6 +9,7 @@
 | Yahir Nichols     | 2             |
 | Angelo Miller     | 3             |
 | Raina Velez       | 1             |
+| Elena             | 4             |
 | Duncan Forbes     | 2             |
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
