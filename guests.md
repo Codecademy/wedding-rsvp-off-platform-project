@@ -14,3 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
+| Doug Tritt        | 2             |
