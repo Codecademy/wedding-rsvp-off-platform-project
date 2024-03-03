@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Alex              | 2 	        |
+| Pera              | 2 	        |
