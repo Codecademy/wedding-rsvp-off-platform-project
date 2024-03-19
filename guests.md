@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Lamin             | 2 	        |
+| Lamphrangmi       | 2 	        |
