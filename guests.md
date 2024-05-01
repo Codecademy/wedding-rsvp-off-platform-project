@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | CHibuzor          | 2 	        |
+| Johnny            | 2 	        |
