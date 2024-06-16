@@ -5,6 +5,7 @@
 | Carl Pacheco      | 1             |
 | Karissa Moore     | 2             |
 | Sophia Riley      | 2             |
+| Yixin Gong        | 2             |
 | Imani Stout       | 5             |
 | Yahir Nichols     | 2             |
 | Angelo Miller     | 3             |
