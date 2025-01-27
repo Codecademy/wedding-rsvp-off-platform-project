@@ -14,6 +14,5 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
-| Jon BOnjovi       | 4             |
-| Julian Asange     | 3             |
-| Max Bobrov    | 5 	          |
+| Aslan Sakalov     | 5             |
+| 
