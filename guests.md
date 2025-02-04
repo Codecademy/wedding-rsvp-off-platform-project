@@ -16,4 +16,4 @@
 | Maxibon           | 5 	        |
 | samuel perciun    | 4             |
 | Juliagn           | 3             |
-| Maxibgn           | 5 	        |
+| Max               | 5 	        |
