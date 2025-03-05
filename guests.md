@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Savannah Boyer    | 2             |
+| Joey Kinney       | 1             |
