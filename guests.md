@@ -1,8 +1,8 @@
-| Name              | Number of Guests |
-| -----------       | -----------   |
-| Rylee Cherry      | 2             |
-| Aimee Howard      | 3             |
-| Carl Pacheco      | 1             |
+| Name              | Number of Guests | Kent Haubein
+| -----------       | -----------   | -----------
+| Rylee Cherry      | 2             | 2 Tomlinsons
+| Aimee Howard      | 3             | 4 Weavers
+| Carl Pacheco      | 1             | 5 Rudolph
 | Karissa Moore     | 2             |
 | Sophia Riley      | 2             |
 | Imani Stout       | 5             |
