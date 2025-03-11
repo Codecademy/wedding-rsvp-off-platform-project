@@ -14,7 +14,4 @@
 | Lilian Rasmussen | 4                |
 | Julian           | 3                |
 | Maxibon          | 5                |
-| Elon             | 3                |
-| Donald           | 7                |
-| Leyla            | 2                |
-| Fendor           | 3                |
+| Heiko            | 4                |
