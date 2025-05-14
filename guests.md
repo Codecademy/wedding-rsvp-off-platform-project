@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Thomas Geeve      | 2             |
+| Thomas Geeve      | 3             |
