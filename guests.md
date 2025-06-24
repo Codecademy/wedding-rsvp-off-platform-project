@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5             |
-| Sidney Russell    | 1             |
+| Sidney Hanson     | 1             |
