@@ -14,3 +14,5 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
+| Slavek            | 2             |
+| Iva            | 2             |
