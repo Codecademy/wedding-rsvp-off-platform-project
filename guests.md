@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	        |
-| Kathleen Moriarty | 2             |
+| Kathleen Moriarty | 3             |
