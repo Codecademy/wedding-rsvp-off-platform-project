@@ -12,5 +12,6 @@
 | Duncan Forbes     | 2             |
 | Susan Sloan       | 3             |
 | Lilian Rasmussen  | 4             |
+| Manson Davdi      | 11            |
 | Julian            | 3             |
-| Maxibon           | 5 	          |
+| Maxibon           | 5 	        |
