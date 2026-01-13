@@ -14,4 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
-| Natalie Kolo      | 3             |
+| Natalie.          | 3             |
