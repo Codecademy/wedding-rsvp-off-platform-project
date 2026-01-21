@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Dummy             | 500           |
+| Dummy 2           | 900           |
