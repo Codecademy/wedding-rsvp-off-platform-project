@@ -15,3 +15,8 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Tyler Perry       | 15            |
+| Tyler Perry       | 15            |
+| Tyler Perry       | 15            |
+| Tyler Perry       | 15            |
+| Tyler Perry       | 15            |
+| Tyler Perry       | 15            |
