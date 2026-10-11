@@ -17,6 +17,6 @@
 | Tyler Perry       | 15            |
 | Tyler Perry       | 15            |
 | Tyler Perry       | 15            |
-| Tyler Perry       | 15            |
+| Tyler Perry       | 16            |
 | Tyler Perry       | 15            |
 | Tyler Perry       | 15            |
