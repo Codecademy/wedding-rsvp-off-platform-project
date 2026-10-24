@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	          |
 | Ann Karoki        | 1             |
+| John Star         | 4             |
